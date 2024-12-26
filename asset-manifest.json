@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/popecorne/static/css/main.7f09134f.css",
+    "main.js": "/popecorne/static/js/main.4aa9fcbc.js",
+    "index.html": "/popecorne/index.html",
+    "main.7f09134f.css.map": "/popecorne/static/css/main.7f09134f.css.map",
+    "main.4aa9fcbc.js.map": "/popecorne/static/js/main.4aa9fcbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f09134f.css",
+    "static/js/main.4aa9fcbc.js"
+  ]
+}
